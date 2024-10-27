@@ -4,4 +4,4 @@
 
 React SVG loader collection. Please check the **[documentation](https://ngeenx.github.io/nx-svg-loaders/docs/category/react)** for installation and usage.
 
-## [⚡️ Play on StackBlitz](https://stackblitz.com/~/github.com/relliv/nx-react-svg-loaders-demo)
+## [⚡️ Play on StackBlitz](https://stackblitz.com/~/github.com/ngeenx/nx-react-svg-loaders-demo)
